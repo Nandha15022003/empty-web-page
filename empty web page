@@ -1,5 +1,10 @@
 <html>
 <head>
+<style>
+body{
+background-color: blue;
+}
+</style>
 <title> empty web page </title>
 </head?
 <body>
